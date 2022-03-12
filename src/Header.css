@@ -1,0 +1,17 @@
+.header
+{
+height: 60px;
+display: flex;
+top:0;
+z-index: 100;
+align-items: center;
+position: sticky;
+background-color: #22303f;
+}
+
+.header-logo
+{   object-fit: contain;
+    width: 100px;
+    height: 60px;
+
+}

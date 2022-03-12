@@ -1,0 +1,8 @@
+so the titile bar is t=going to be a horizontal bar with multiple components 
+it basically has 3 parts 
+
+1.Logo
+2.Search bar
+3.Child Components (cart,sign-in,etc)
+
+This titleBar would be a header(component-> First letter Caps) in every page 
